@@ -844,32 +844,6 @@ a {
 .cid-uZEYS6FbLF .mbr-section-btn {
   text-align: center;
 }
-.cid-uZLslNizCd {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-uZLslNizCd .item:focus,
-.cid-uZLslNizCd span:focus {
-  outline: none;
-}
-.cid-uZLslNizCd .container-fluid {
-  padding-left: 0;
-  padding-right: 0;
-  overflow: hidden;
-}
-.cid-uZLslNizCd .content-head {
-  max-width: 800px;
-}
-.cid-uZLslNizCd .item {
-  color: #232323;
-  min-height: 90px;
-}
-@media (max-width: 768px) {
-  .cid-uZLslNizCd .item {
-    min-height: 45px;
-  }
-}
 .cid-uZF2MLi0aD {
   padding-top: 4rem;
   padding-bottom: 4rem;
